@@ -3,8 +3,7 @@
 - 🎓 BSc Data Science & AI Student<br/>
 - 🧠 Learning Python, SQL, Machine Learning<br/>
 - 🔭 Currently building projects to master programming fundamentals<br/>
-- 🌍 Languages: English, Urdu, Beginner Dutch<br/>
-- ⚡ Fun fact: I love football<br/>
+
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
