@@ -2,7 +2,7 @@
 
 # Hi there, I'm Umar 👋
 
-**Data Science & AI Student · Honours Academy · Leiden University**
+**Data Science & AI Student · Honours Academy**
 
 *Turning data into decisions — and ideas into impact.*
 
