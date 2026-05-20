@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Mirza 👋
+# Hi there, I'm Umar 👋
 
 **Data Science & AI Student · Honours Academy · Leiden University**
 
@@ -16,7 +16,7 @@
 
 ## 🧠 About Me
 
-I'm a **freshman in Data Science & AI at Leiden University**, also enrolled in the **Honours Academy** — a selective program for students who want to go beyond the standard curriculum and tackle real-world challenges.
+I'm a **Data Science & AI** student, also enrolled in the **Honours Academy** — a selective program for students who want to go beyond the standard curriculum and tackle real-world challenges.
 
 I care deeply about building things that matter: whether that's a script that wins a **national competition**, a project that earns a **Duke of Edinburgh Silver Award**, or a model that makes sense of messy data.
 
@@ -43,8 +43,8 @@ skills = {
 |---|---|
 | 🥇 National Competition Winner | Scriptwriting — first place at a national level |
 | 🏅 Duke of Edinburgh Silver | Demonstrated commitment, perseverance & leadership |
-| 🎓 Honours Academy | Leiden University's selective enrichment programme |
-| 🤖 AI & Data Science | BSc student at one of the Netherlands' top universities |
+| 🎓 Honours Academy | University's selective enrichment programme |
+| 🤖 AI & Data Science | BSc student |
 
 ---
 
@@ -56,17 +56,6 @@ skills = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Mirza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=umaarmirzaa&show_icons=true&theme=default&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=umaarmirzaa&layout=compact&hide_border=true&theme=default)
-
-</div>
-
----
 
 ## 💬 Let's Connect
 
