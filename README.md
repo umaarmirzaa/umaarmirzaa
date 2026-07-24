@@ -7,8 +7,8 @@
   </samp>
 </p>
 
-<img src="portrait-dark.png#gh-dark-mode-only" align="right" width="200" alt="">
-<img src="portrait-light.png#gh-light-mode-only" align="right" width="200" alt="">
+<a href="https://umaarmirzaa.github.io"><img src="portrait-dark.png#gh-dark-mode-only" align="right" width="200" alt=""></a>
+<a href="https://umaarmirzaa.github.io"><img src="portrait-light.png#gh-light-mode-only" align="right" width="200" alt=""></a>
 
 ### Muhammad Umar Mirza
 
