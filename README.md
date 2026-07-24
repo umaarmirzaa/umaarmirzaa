@@ -1,15 +1,3 @@
-<p align="center">
-  <samp>
-    <a href="https://umaarmirzaa.github.io">portfolio</a> ·
-    <a href="https://umaarmirzaa.github.io/#projects">projects</a> ·
-    <a href="https://linkedin.com/in/umaarmirzaa">linkedin</a> ·
-    <a href="mailto:umaarmirzaa@gmail.com">email</a>
-  </samp>
-</p>
-
-<a href="https://umaarmirzaa.github.io"><img src="portrait-dark.png#gh-dark-mode-only" align="right" width="200" alt=""></a>
-<a href="https://umaarmirzaa.github.io"><img src="portrait-light.png#gh-light-mode-only" align="right" width="200" alt=""></a>
-
 ### Muhammad Umar Mirza
 
 <samp>Data Science &amp; AI · Leiden University (LIACS) · Honours Programme</samp>
@@ -21,7 +9,9 @@ actually doing.
 Backend AI Engineering intern at **[flyrank.ai](https://flyrank.ai)**: RAG
 architecture, vector databases, chunking strategies, retrieval pipelines.
 
-<br clear="right">
+[![Portfolio](https://img.shields.io/badge/Portfolio-umaarmirzaa.github.io-0d0d0f?style=flat-square&labelColor=0d0d0f)](https://umaarmirzaa.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fumaarmirzaa-0d0d0f?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d0d0f)](https://linkedin.com/in/umaarmirzaa)
+[![Email](https://img.shields.io/badge/Email-umaarmirzaa%40gmail.com-0d0d0f?style=flat-square&logo=gmail&logoColor=white&labelColor=0d0d0f)](mailto:umaarmirzaa@gmail.com)
 
 ---
 
