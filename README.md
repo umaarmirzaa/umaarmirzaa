@@ -59,8 +59,8 @@ processing. Fundamentals made load-bearing, not decorative.
 ### Latest
 
 <!-- activity starts -->
-- [**umaarmirzaa.github.io**](https://github.com/umaarmirzaa/umaarmirzaa.github.io) · `HTML` — Personal portfolio — Data Science & AI <sub>today</sub>
-- [**meme-mirror**](https://github.com/umaarmirzaa/meme-mirror) · `Python` — Webcam watches your hands and face; the matching meme pops up <sub>yesterday</sub>
+- [**umaarmirzaa.github.io**](https://github.com/umaarmirzaa/umaarmirzaa.github.io) · `HTML` — Personal portfolio — Data Science & AI <sub>yesterday</sub>
+- [**meme-mirror**](https://github.com/umaarmirzaa/meme-mirror) · `Python` — Webcam watches your hands and face; the matching meme pops up <sub>2d ago</sub>
 - [**python-fundamentals**](https://github.com/umaarmirzaa/python-fundamentals) · `Python` — Eight Python learning projects in one repo — operator precedence, loops, recursion, OOP class design, graph search, and image processing <sub>2d ago</sub>
 - [**tech-stack-recommender**](https://github.com/umaarmirzaa/tech-stack-recommender) · `Python` — Skills-to-career recommender using TF-IDF and cosine similarity <sub>Jun 2026</sub>
 <!-- activity ends -->
