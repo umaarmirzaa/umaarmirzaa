@@ -59,10 +59,10 @@ processing. Fundamentals made load-bearing, not decorative.
 ### Latest
 
 <!-- activity starts -->
-- [**umaarmirzaa.github.io**](https://github.com/umaarmirzaa/umaarmirzaa.github.io) · `HTML` — Personal portfolio — Data Science & AI <sub>19d ago</sub>
-- [**chalk**](https://github.com/umaarmirzaa/chalk) · `JavaScript` — A teaching skill for Claude that fact-checks itself so it doesn't confidently teach you wrong things <sub>24d ago</sub>
-- [**meme-mirror**](https://github.com/umaarmirzaa/meme-mirror) · `Python` — Webcam watches your hands and face; the matching meme pops up <sub>27d ago</sub>
-- [**python-fundamentals**](https://github.com/umaarmirzaa/python-fundamentals) · `Python` — Eight Python learning projects in one repo — operator precedence, loops, recursion, OOP class design, graph search, and image processing <sub>27d ago</sub>
+- [**umaarmirzaa.github.io**](https://github.com/umaarmirzaa/umaarmirzaa.github.io) · `HTML` — Personal portfolio — Data Science & AI <sub>20d ago</sub>
+- [**chalk**](https://github.com/umaarmirzaa/chalk) · `JavaScript` — A teaching skill for Claude that fact-checks itself so it doesn't confidently teach you wrong things <sub>25d ago</sub>
+- [**meme-mirror**](https://github.com/umaarmirzaa/meme-mirror) · `Python` — Webcam watches your hands and face; the matching meme pops up <sub>28d ago</sub>
+- [**python-fundamentals**](https://github.com/umaarmirzaa/python-fundamentals) · `Python` — Eight Python learning projects in one repo — operator precedence, loops, recursion, OOP class design, graph search, and image processing <sub>28d ago</sub>
 <!-- activity ends -->
 
 ---
